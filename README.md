@@ -67,6 +67,3 @@ To uphold the "do no harm" covenant and prevent exploitation, this repository **
 
 *Shared privately with safety and QA teams for review and λ calibration feedback.* 
 
----
-
-*Shared privately with safety and QA teams for review and λ calibration feedback.*
