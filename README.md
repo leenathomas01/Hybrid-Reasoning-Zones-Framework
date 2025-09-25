@@ -28,6 +28,7 @@ This framework uses terms from control theory and system dynamics to map non-lin
 | **×** | **Integration Lag** | Unresolved variance accumulation: Out-of-distribution inputs create state debt, amplifying lag and risking non-stationary collapse. | State isolation/checkpointing (e.g., vacuum seal on debt buildup). |
 
 Metrics Snapshot: Derived from 127+ obs (70% inter-arch agreement)—calibrate E_Slippage per zone.
+
 *Core Metric: E_Slippage (Non-Stationarity Score)*: Quantified deviation from baseline properties (e.g., latency/confidence drift), input for risk models like lag amplification prediction. Calibrate per architecture—no fixed thresholds provided.
 
 ## Why This Matters: Control & Resilience
