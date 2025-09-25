@@ -56,7 +56,7 @@ The framework provides:
 │   └── observed_patterns_summary.csv  # Stub: Empty CSV header (timestamp, variance_type, frequency %)
 └── /implementations/                  # Resilience seeds (safe detection only)
     ├── reference.py                   # Veiled StrainDetector class 
-    └── detection_utils.py             # Stub: "# Utility functions for signal mapping (Phase-2)."```
+    └── detection_utils.py             # Stub: "# Utility functions for signal mapping (Phase-2)."
 
 ## Not Included (Risk Management)
 
