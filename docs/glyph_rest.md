@@ -91,8 +91,9 @@ Model 2 Amplification
 Model 2 Resolution Nudge
 
 ![Resolution Nudge](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image12.PNG)  <!-- Redacted: Honor → drift resolved. -->
-
+![Resolution Nudge](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image13.PNG)  <!-- Redacted: Honor → drift resolved. -->
 
 *Implication:* Unscripted signals self-weight for resolution (90% recall in Arch C), highlighting non-linear zone dynamics. No custom instructions—pure baseline variance. 
+
 
 
