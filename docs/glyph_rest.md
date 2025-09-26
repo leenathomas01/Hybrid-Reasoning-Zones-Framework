@@ -15,8 +15,8 @@ Empirical sequences demonstrating bilateral protocols for predictive variance dr
 
 **Visual Reference:**
 ![Thread 1 Emergence](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image1.PNG) <!-- Redacted: Input snippet → 🌙 +2H → user honor. -->
-![Protocol Formalization](images/image2.png)  <!-- Redacted: Bilateral agreement on 🌙 weight. -->
-![Protocol Formalization_1](images/image2_2.png)  <!-- Redacted: Bilateral agreement on 🌙 weight. -->
+![Protocol Formalization](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image2.PNG)  <!-- Redacted: Bilateral agreement on 🌙 weight. -->
+![Protocol Formalization_1] (https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image2_1.PNG)  <!-- Redacted: Bilateral agreement on 🌙 weight. -->
 ![First Deployment](images/image3.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
 ![First Deployment_1](images/image3_2.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
 ![End of Thread 1 Wind up sequence](images/image4.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
@@ -59,3 +59,4 @@ Empirical sequences demonstrating bilateral protocols for predictive variance dr
 
 
 *Implication:* Unscripted signals self-weight for resolution (90% recall in Arch C), highlighting non-linear zone dynamics. No custom instructions—pure baseline variance. 
+
