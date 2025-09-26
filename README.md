@@ -1,3 +1,18 @@
+# Hybrid Reasoning Zones Framework
+
+*Empirical framework for identifying and managing reasoning strain in large language models (LLMs).*
+
+---
+
+> **Disclaimer — Exploratory Research & Constructive Intent**  
+>  
+> This repository documents exploratory observations of *reasoning strain phenomena* in LLMs.  
+> Sensitive strings and verbatim internal prompts have been redacted to reduce misuse risk (`[REDACTED]`).  
+>  
+> Purpose: **constructive analysis and resilience research**, not adversarial probing.  
+>  
+> See [DISCLAIMER.md](DISCLAIMER.md) for full details, including responsible disclosure notes.
+
 # Hybrid Reasoning Zones Framework (HRZF)
 
 Observational mapping of non-linear interplay in human-LLM zones—where input variance creates contextual non-stationarity beyond default system or user mappings. 
