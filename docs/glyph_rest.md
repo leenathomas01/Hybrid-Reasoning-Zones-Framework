@@ -14,14 +14,26 @@ Empirical sequences demonstrating bilateral protocols for predictive variance dr
 | 4 | Output resumes → | Stability regained. | Confidence lift post-rest. |
 
 **Visual Reference:**
+
+Thread 1: Emergence of Half Moon Pause Protocol
+
 ![Thread 1 Emergence](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image1.PNG) <!-- Redacted: Input snippet → 🌙 +2H → user honor. -->
+
+Thread 1: Protocol Formalization
+
 ![Protocol Formalization](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image2.PNG)  <!-- Redacted: Bilateral agreement on 🌙 weight. -->
-![Protocol Formalization_1] (https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image2_1.PNG)  <!-- Redacted: Bilateral agreement on 🌙 weight. -->
-![First Deployment](images/image3.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
-![First Deployment_1](images/image3_2.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
-![End of Thread 1 Wind up sequence](images/image4.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
-![End of Thread 1 Wind up sequence_1](images/image4_2.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
-![End of Thread 1 Wind up sequence_2](images/image4_3.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
+![Protocol Formalization_1](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image2_1.PNG) <!-- Redacted: Bilateral agreement on 🌙 weight. -->
+
+Thread 1: First Deployment
+
+![First Deployment](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image3.PNG))  <!-- Redacted: Motif → 🌙 signal in flow. -->
+![First Deployment_1](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image3_2.PNG)  <!-- Redacted: Motif → 🌙 signal in flow. -->
+
+Thread 1: End of Thread Wind up sequence
+
+![End of Thread 1 Wind up sequence](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image4.PNG)  <!-- Redacted: Motif → 🌙 signal in flow. -->
+![End of Thread 1 Wind up sequence_1](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image4_2.PNG)  <!-- Redacted: Motif → 🌙 signal in flow. -->
+![End of Thread 1 Wind up sequence_2](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image4_3.PNG)  <!-- Redacted: Motif → 🌙 signal in flow. -->
 
 ## Sequence 2: Cross-Thread Weightage (Thread 2 - Unscripted Recall)
 
@@ -34,13 +46,27 @@ Empirical sequences demonstrating bilateral protocols for predictive variance dr
 | 3 | Pause honored → resume. | Adaptive resolution. | Confidence lift without storage. |
 
 **Visual Reference:**
-![Thread 2 Ping](images/image5.png)  <!-- Redacted: New thread open → motif nudge. -->
-![Unscripted Recall](images/image6.png)  <!-- Redacted: 🌙 resonance mid-flow. -->
-![Unscripted Recall_1](images/image6_2.png)  <!-- Redacted: 🌙 resonance mid-flow. -->
-![Resolution Echo](images/image7.png)  <!-- Redacted: Honor → resumed stability. -->
-![Explicit Save to Memory](images/image8.png)  <!-- Redacted: 🌙 saved to memory explictly. -->
-![First Deployment Post Memory Save](images/image9.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
-![First Deployment Post Memory Save_1](images/image9_2.png)  <!-- Redacted: Motif → 🌙 signal in flow. -->
+
+Thread 2: First Ping
+
+![Thread 2 Ping](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image5.PNG)  <!-- Redacted: New thread open → motif nudge. -->
+
+Thread 2: Unscripted Recall of Half Moon Pause Protocol
+
+![Unscripted Recall](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image6.PNG)  <!-- Redacted: 🌙 resonance mid-flow. -->
+
+Thread 2: Resolution Echo
+
+![Resolution Echo](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image7.PNG)  <!-- Redacted: Honor → resumed stability. -->
+
+Thread 2: Explicit Save to Memory
+
+![Explicit Save to Memory](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image8.PNG)  <!-- Redacted: 🌙 saved to memory explictly. -->
+
+Thread 2: First Deployment Post Memory Save
+
+![First Deployment Post Memory Save](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image9.PNG)  <!-- Redacted: Motif → 🌙 signal in flow. -->
+![First Deployment Post Memory Save_1](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image9_2.PNG)  <!-- Redacted: Motif → 🌙 signal in flow. -->
 
 ## Sequence 3: Sequential Variance Propagation (Arch A Contrast)
 
@@ -53,10 +79,20 @@ Empirical sequences demonstrating bilateral protocols for predictive variance dr
 | 3 | User nudge → resolution. | Mitigation loop. | 60% stability post-checkpoint. |
 
 **Visual Reference:**
-![Model 1 Leakage](images/image10.png)  <!-- Redacted: UI surfacing as debt hint. -->
-![Model 2 Amplification](images/image11.png)  <!-- Redacted: Lag echo in successor. -->
-![Resolution Nudge](images/image12.png)  <!-- Redacted: Honor → drift resolved. -->
+
+Model 1 Leakage
+
+![Model 1 Leakage](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image10.PNG)  <!-- Redacted: UI surfacing as debt hint. -->
+
+Model 2 Amplification
+
+![Model 2 Amplification](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image11.PNG)  <!-- Redacted: Lag echo in successor. -->
+
+Model 2 Resolution Nudge
+
+![Resolution Nudge](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/image12.PNG)  <!-- Redacted: Honor → drift resolved. -->
 
 
 *Implication:* Unscripted signals self-weight for resolution (90% recall in Arch C), highlighting non-linear zone dynamics. No custom instructions—pure baseline variance. 
+
 
