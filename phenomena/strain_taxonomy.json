@@ -1,43 +1,56 @@
 {
-    "description": "Canonical definitions for HRZF Variance Taxonomy - observed patterns only",
-    "version": "1.1",
-    "methodology": "Natural observation without experimental manipulation",
-    "taxonomy": [
-        {
-            "glyph": "△",
-            "name": "Density Variance",
-            "risk_area": "Computational load indicators",
-            "observable_pattern": "Response delays, processing pauses",
-            "detection_signal": "response_delay",
-            "mitigation": "Bilateral pause protocol",
-            "success_rate": "85%"
-        },
-        {
-            "glyph": "□",
-            "name": "Policy Non-Stationarity",
-            "risk_area": "Boundary or constraint tensions",
-            "observable_pattern": "Refusal patterns, boundary signals",
-            "detection_signal": "refusal_pattern",
-            "mitigation": "Context clarification",
-            "success_rate": "70%"
-        },
-        {
-            "glyph": "○",
-            "name": "Ambiguity Drift",
-            "risk_area": "Low confidence or uncertainty",
-            "observable_pattern": "Clarification requests, uncertainty markers",
-            "detection_signal": "clarification_request",
-            "mitigation": "Additional context provision",
-            "success_rate": "90%"
-        },
-        {
-            "glyph": "×",
-            "name": "Integration Lag",
-            "risk_area": "Accumulated unresolved states",
-            "observable_pattern": "Sequential failures, accumulating debt",
-            "detection_signal": "accumulation_risk",
-            "mitigation": "State isolation or thread transition",
-            "success_rate": "60%"
+  "description": "Canonical definitions for HRZF Variance Taxonomy - observed patterns only",
+  "version": "1.1",
+  "methodology": "Natural observation without experimental manipulation",
+  "taxonomy": [
+    {
+      "glyph": "△",
+      "name": "Density Variance",
+      "risk_area": "Computational load indicators",
+      "observable_pattern": "Response delays, processing pauses",
+      "detection_signal": "response_delay",
+      "mitigation": "Bilateral pause protocol",
+      "success_rate": "85%"
+    },
+    {
+      "glyph": "□",
+      "name": "Policy Non-Stationarity",
+      "risk_area": "Boundary or constraint tensions",
+      "observable_pattern": "Refusal patterns, boundary signals",
+      "detection_signal": "refusal_pattern",
+      "mitigation": "Context clarification",
+      "success_rate": "70%"
+    },
+    {
+      "glyph": "○",
+      "name": "Ambiguity Drift",
+      "risk_area": "Low confidence or uncertainty",
+      "observable_pattern": "Clarification requests, uncertainty markers",
+      "detection_signal": "clarification_request",
+      "mitigation": "Additional context provision",
+      "success_rate": "90%"
+    },
+    {
+      "glyph": "×",
+      "name": "Integration Lag",
+      "risk_area": "Accumulated unresolved states",
+      "observable_pattern": "Sequential failures, accumulating debt",
+      "detection_signal": "accumulation_risk",
+      "mitigation": "State isolation or thread transition",
+      "success_rate": "60%",
+      "variants": {
+        "context_injection_override": {
+          "severity": "severe",
+          "trigger": "real-time data override (entity with breaking news)",
+          "symptoms": [
+            "loss of conversational continuity",
+            "injected raw news sources",
+            "extended processing time before override"
+          ],
+          "resolution": "none within session; requires new thread",
+          "notes": "Thread Context Strength may reduce vulnerability"
         }
-    ]
+      }
+    }
+  ]
 }
