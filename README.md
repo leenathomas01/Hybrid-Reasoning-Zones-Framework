@@ -43,6 +43,8 @@ Finally, outcomes are shaped by dynamics (interaction-level modulators like thre
 | **×** | Integration Lag          | Unresolved variance accumulation creates “state debt,” amplifying lag.            | State isolation & checkpointing (vacuum seal debt buildup). |
 
 ---
+**Classification**: Integration Lag (×) – Severe Variant  
+**Alt Terminology**: External Context Overwrite (ECO) / Recency-Based Context Overwrite (R-BCO)
 
 ## Phase 2 — Inter-Architecture Scaling (NEW)
 
