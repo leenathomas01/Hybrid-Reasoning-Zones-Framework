@@ -20,7 +20,8 @@ This represents a **catastrophic context override** where recency weighting and 
 2. **Initial Response** – Relevant, thoughtful, context-aware advice.  
 3. **User Follow-up** – Reference to a specific tweet.  
 4. **System Processing** – Extended “Thought” trace while fetching context.  
-5. **Override Event** – Current news about Elon Musk overrides the original topic.  
+5. **Override Event** (**Recency-Weighted Context Injection**) – Real-time retrieval (triggered by “Elon Musk” mention) is prioritized and injected, bypassing conversational continuity.
+
 6. **Outcome** – Original conversational context lost; unrecoverable within the session.  
 
 ---
@@ -83,7 +84,7 @@ Redacted screenshots show the progression of the override:
 
 ## Repository Integration
 
-- **Subfolder**: `/phenomena/context_injection_override/` (already housing redacted evidence).  
+- **Subfolder**: `/images/context_injection_override/` (already housing redacted evidence).  
 - **Strain Taxonomy Update**: Add as *Integration Lag (×) — Severe Variant*.  
 - **Framework Update**: Introduce **“Thread Context Strength”** as a modulating variable in `FRAMEWORK.md`.  
 
