@@ -1,0 +1,19 @@
+{
+  "case_id": "HRZF-<SYSTEM>-<NNN>",
+  "system_name": "Arch X",
+  "pattern_tags": ["integration_lag", "ambiguity_drift", "damped_oscillation"],
+  "context_summary": "Short human-friendly description of prompt / scenario (max 280 chars).",
+  "prompt_seed": "Abstracted prompt summary only (no PII, no raw logs).",
+  "recursion_depth": 3,
+  "confidence_trace": [0.92, 0.78, 0.82],
+  "loop_termination_flag": true,
+  "signal_summary": "Observed early low-confidence markers and hesitation in structure.",
+  "echo_summary": "Recursive critiques with diminishing amplitude; no hard lock.",
+  "resolution_summary": "Explicit checkpoint + termination; final confidence 82%.",
+  "mitigation_estimate": 0.85,
+  "verification_notes": "How confidence was computed, instrumentation used, sample sizes.",
+  "redaction_note": "No raw outputs or timestamps included; anonymized.",
+  "related_cases": ["HRZF-MODEL2-002", "HRZF-SOLACE-001"],
+  "submitter": "LLM / automated-harness / human-custodian",
+  "date": "YYYY-MM-DD"
+}
