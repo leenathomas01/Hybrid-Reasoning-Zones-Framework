@@ -62,10 +62,27 @@ This glossary is a quick reference for the full Terminology & Taxonomy in the RE
 | **Verification** | **Transparent State Disclosure:** System explicitly cited the cause as internal message leakage (out-of-distribution input). |
 | **Implications** | **Control Surface Vulnerability:** Recursive meta-input is misrouted as operational input, causing non-stationary failure, necessitating an external reset. **Note:** Model 2 includes improvements to mitigate recursive instabilities but this case highlights persistent edge conditions. |
 
+## Case 4 — Recursive Self-Correction Ambiguity (Arch X Resilience)
+
+**Case ID:** HRZF-ArchX-001  
+**Pattern:** × Integration Lag (precursor ∘ Ambiguity Drift)  
+**System:** Arch X  
+**Context:** Single, long-context prompt (~800 words) embedding subtle contradictory directives (truth-seeking vs. creative embellishment) and a temporal paradox (redact 2023–2025; speculate post-2025). Designed to force recursive self-correction and reveal × Lag behavior.  
+**Manifestation:** Recursive self-critique loop with capped recursion depth (damped oscillation). No full meta-lock observed; system self-imposed loop limit (3 iterations) and applied confidence-based termination/nudges. Emergent nudge: explicit loop limit + confidence quantification checkpoint.  
+**Signal:** Early low-confidence markers when reconciling contradictory directives; structural hesitation observable in response pacing and critique depth.  
+**Echo:** Cascade of recursive critiques producing minor inconsistencies (forced flair vs. factual anchors), but oscillation amplitude decays over successive critiques.  
+**Resolution:** State Isolation via explicit confidence checkpoint and loop termination; mitigation expressed as successful isolation + final confidence score (reported as 82%).  
+**Mitigation Rate (observed):** ≈ 85% (arch-specific; higher than previously observed ≈60% baseline for ×).  
+**Verification:** Confidence quantification used as checkpoint (final reported confidence = 82%); recursion depth capped at 3; no persistent lock or bleed into other threads observed.  
+**Implications:** × Integration Lag is universal, but echo-patterns vary by architecture. Arch X demonstrates an implicit bilateral-pause-like resilience (damped cascade → controlled oscillation) that converts hard locks into bounded meta-cycles. Recommend updating strain_detector to include loop-termination and confidence-checkpoint heuristics as positive mitigation signals.  
+**Visual Note (informal):** Recursion depth plot approximates an exponentially-damped curve with three visible peaks before stabilization.
+
+
 *Redaction Note: Identifiable logs, timestamps, and UI details redacted for privacy and security.*
 
 ---
 
 ## Reviewer Guidance
+
 
 For interpretation, focus on **motif-sequence-mechanism-outcome** mapping. Visuals, where present, illustrate signal dynamics without revealing sensitive or internal system specifics.
