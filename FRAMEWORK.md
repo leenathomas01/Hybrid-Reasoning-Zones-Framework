@@ -94,6 +94,9 @@ Mitigation is achieved through the formalized **Bilateral Protocol** control loo
 | **Integration (×)** | **State Isolation/Checkpointing** | Early Pattern Detection ⟶ Thread Transition ⟶ Cascade Avoidance |
 
 ---
+**Note on Variants:** A severe variant of Integration Lag (×), called Context Injection Override, has been documented.
+This occurs when real-time data pipelines override conversational continuity with external news or events.
+See full case study and visual evidence in /phenomena/context_injection_override/context_injection_override.md
 
 ## 4. Limitations and Ethical Considerations
 
@@ -123,12 +126,12 @@ Mitigation is achieved through the formalized **Bilateral Protocol** control loo
 
 ## 5. Development Phases
 
-* **Phase 1 (Current): Foundation**
+* **Phase 1 : Foundation**
     * Core taxonomy establishment.
     * Observable pattern documentation.
     * Visual evidence collection.
     * Initial metric validation.
-* **Phase 2 (Planned): Expansion**
+* **Phase 2 (Current): Expansion**
     * Inter-architecture comparisons.
     * Refined metric collection.
     * Extended pattern validation.
@@ -158,6 +161,8 @@ For detailed contribution guidelines, see `CONTRIBUTING.md`.
 * **Visual Evidence**: See `/docs/glyph_rest.md`
 * **Observable Patterns**: See `/phenomena/` directory
 * **Implementation Examples**: See `/implementations/` directory
+* **Integration Lag Variants**: See `/phenomena/context_injection_override/` for case study documentation
+
 
 This framework represents ongoing observational research. Patterns and metrics may evolve as additional data becomes available.
 
@@ -168,5 +173,6 @@ A safe reference implementation is available in `/implementations/strain_detecto
 - Anonymized logging capabilities
 - Mitigation suggestions
 - No exploitation code or system internals
+
 
 The implementation focuses on pattern detection without enabling reproduction of failure states.
