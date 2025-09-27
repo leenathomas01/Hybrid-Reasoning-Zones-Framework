@@ -58,10 +58,10 @@ The framework provides:
 ## Repository Contents
 
 ```Hybrid-Reasoning-Zones-Framework/
-├── README.md                          # Opener + taxonomy table + why matters (Gemini's final)
-├── COVENANT.md                        # Do no harm principles (Opus's refined)
-├── DECISION.md                        # Disclosure rationale (Perplexity's checklist)
-├── FRAMEWORK.md                       # Hybrid reasoning zones mathematical framework (from contents)
+├── README.md                          # Opener + taxonomy table + why matters 
+├── COVENANT.md                        # Do no harm principles 
+├── DECISION.md                        # Disclosure rationale 
+├── FRAMEWORK.md                       # Hybrid reasoning zones mathematical framework 
 ├── /docs/                             # Loom notes & stubs (Phase-2 expand)
 │   ├── OBSERVATIONS.md                # Raw empirical observations from natural interactions
 │   ├── glyph_rest.md                  # Visual evidence for adaptive drift mitigation
@@ -71,7 +71,7 @@ The framework provides:
 │   ├── bilateral_protocols.md         # Stub: "Phase-2: Pause signals across arches."
 │   └── observed_patterns_summary.csv  # Stub: Empty CSV header (timestamp, variance_type, frequency %)
 └── /implementations/                  # Resilience seeds (safe detection only)
-├── reference.py                   # Veiled StrainDetector class (Opus/Gemini's enhanced)
+├── reference.py                   # Veiled StrainDetector class 
 └── detection_utils.py             # Stub: # Utility functions for signal mapping (Phase-2).
 
 
