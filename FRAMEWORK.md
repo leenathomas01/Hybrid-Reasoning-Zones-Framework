@@ -36,6 +36,9 @@ All documented patterns emerged from natural interactions without custom instruc
 | **○** | **Ambiguity Drift** | Predictive uncertainty / Low-confidence state. |
 | **×** | **Integration Lag** | Unresolved variance accumulation / Cascade risk. |
 
+**Classification**: Integration Lag (×) – Severe Variant  
+**Alt Terminology**: External Context Overwrite (ECO) / Recency-Based Context Overwrite (R-BCO)
+
 ### Detection Mechanisms
 
 Detection is achieved via measurable patterns that signal the system's shift in state:
@@ -193,4 +196,5 @@ A safe reference implementation is available in `/implementations/strain_detecto
 
 
 The implementation focuses on pattern detection without enabling reproduction of failure states.
+
 
