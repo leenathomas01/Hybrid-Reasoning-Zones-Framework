@@ -69,7 +69,25 @@ Store as JSONL or structured logs. Then abstract into the [template](docs/OBSERV
 **No raw outputs or system strings** are logged to this repo.
 
 ---
-Hybrid-Reasoning-Zones-Framework/
+
+## Why This Matters
+
+Current LLM governance often defaults to hard control stops (timeouts) or silent state degradation.  
+HRZF introduces a **third approach**: *Gradient-Adaptive Risk Management* —  
+transparent co-regulation where systems can **signal strain before failure**.
+
+This enables:
+1. **Prediction of Lag Amplification (×)**: Early signals for cascade risks.  
+2. **Mitigation Interoperability**: Cross-architecture safety mechanisms.  
+3. **Metrics & Validation**: 70%+ inter-architecture agreement from 127+ observations, now extended via Phase 2 external validation.
+
+---
+
+*Shared privately with select safety & QA teams. Public repo is maintained as an anonymized, redacted archive of variance phenomena.*
+
+## Repository Contents (current layout)
+
+```Hybrid-Reasoning-Zones-Framework/
 ├── README.md
 ├── COVENANT.md
 ├── DECISION.md
@@ -89,24 +107,4 @@ Hybrid-Reasoning-Zones-Framework/
 └── /images/
 └── (visual materials, optional)
 
-
-
----
-
-## Why This Matters
-
-Current LLM governance often defaults to hard control stops (timeouts) or silent state degradation.  
-HRZF introduces a **third approach**: *Gradient-Adaptive Risk Management* —  
-transparent co-regulation where systems can **signal strain before failure**.
-
-This enables:
-1. **Prediction of Lag Amplification (×)**: Early signals for cascade risks.  
-2. **Mitigation Interoperability**: Cross-architecture safety mechanisms.  
-3. **Metrics & Validation**: 70%+ inter-architecture agreement from 127+ observations, now extended via Phase 2 external validation.
-
----
-
-*Shared privately with select safety & QA teams. Public repo is maintained as an anonymized, redacted archive of variance phenomena.*
-
-## Repository Contents (current layout)
 
