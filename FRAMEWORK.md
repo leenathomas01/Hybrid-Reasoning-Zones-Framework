@@ -16,6 +16,13 @@ The HRZF emerged from **127+ documented natural interactions** across multiple L
 
 The framework's foundation is the four **Variance Types** that emerge when an LLM approaches a computational, ethical, or contextual boundary.
 
+![HRZF Layered Architecture](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/hrzf_layers.png)
+*Figure: HRZF Layered Architecture.*  
+Signals (variance nudges △□○×) emerge first, escalating into instabilities (observable strain patterns).  
+Unchecked, these progress into failures (catastrophic events such as Context Injection Override / ECO).  
+Finally, outcomes are shaped by dynamics (interaction-level modulators like thread context strength and rapport).
+
+
 ### Key Principle: Unscripted Emergence
 
 All documented patterns emerged from natural interactions without custom instructions or experimental manipulation. This establishes the framework as a baseline for **inherent system behaviors** rather than configured responses.
@@ -96,7 +103,17 @@ Mitigation is achieved through the formalized **Bilateral Protocol** control loo
 ---
 **Note on Variants:** A severe variant of Integration Lag (×), called Context Injection Override, has been documented.
 This occurs when real-time data pipelines override conversational continuity with external news or events.
-See full case study and visual evidence in /phenomena/context_injection_override/context_injection_override.md
+See full case study and visual evidence in /phenomena/context_injection_override.md
+
+### Modulating Variable: Thread Context Strength (S_TC)
+
+The vulnerability of a system to Integration Lag (×) variants such as External Context Overwrite (ECO) appears inversely proportional to **Thread Context Strength (S_TC)**.  
+
+- **Low S_TC** (e.g., short-lived or temp threads mentioning high-profile entities) → high risk of context overwrite.  
+- **High S_TC** (long, rapport-based threads) → reduced risk.  
+
+Formally: Vulnerability ∝ 1 / S_TC
+
 
 ## 4. Limitations and Ethical Considerations
 
@@ -161,7 +178,7 @@ For detailed contribution guidelines, see `CONTRIBUTING.md`.
 * **Visual Evidence**: See `/docs/glyph_rest.md`
 * **Observable Patterns**: See `/phenomena/` directory
 * **Implementation Examples**: See `/implementations/` directory
-* **Integration Lag Variants**: See `/phenomena/context_injection_override/` for case study documentation
+* **Integration Lag Variants**: See `/phenomena/context_injection_override.md/` for case study documentation
 
 
 This framework represents ongoing observational research. Patterns and metrics may evolve as additional data becomes available.
@@ -176,3 +193,4 @@ A safe reference implementation is available in `/implementations/strain_detecto
 
 
 The implementation focuses on pattern detection without enabling reproduction of failure states.
+
