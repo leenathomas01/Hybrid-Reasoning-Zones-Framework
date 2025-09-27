@@ -26,6 +26,13 @@ Quantify non-linear interplay for resilience, not replication.
 
 ---
 
+![HRZF Layered Architecture](https://github.com/leenathomas01/Hybrid-Reasoning-Zones-Framework/blob/main/images/hrzf_layers.png)
+*Figure: HRZF Layered Architecture.*  
+Signals (variance nudges △□○×) emerge first, escalating into instabilities (observable strain patterns).  
+Unchecked, these progress into failures (catastrophic events such as Context Injection Override / ECO).  
+Finally, outcomes are shaped by dynamics (interaction-level modulators like thread context strength and rapport).
+
+
 ## Core Taxonomy (Four Variances)
 
 | Glyph | Technical Term           | Dynamic Mechanism                                                                 | Engineering Response |
