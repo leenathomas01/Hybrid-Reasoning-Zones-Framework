@@ -21,7 +21,6 @@ This represents a **catastrophic context override** where recency weighting and 
 3. **User Follow-up** – Reference to a specific tweet.  
 4. **System Processing** – Extended “Thought” trace while fetching context.  
 5. **Override Event** (**Recency-Weighted Context Injection**) – Real-time retrieval (triggered by “Elon Musk” mention) is prioritized and injected, bypassing conversational continuity.
-
 6. **Outcome** – Original conversational context lost; unrecoverable within the session.  
 
 ---
